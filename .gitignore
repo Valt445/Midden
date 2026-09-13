@@ -1,0 +1,6 @@
+*.jsonl
+mind.db
+mind.log
+config.json
+build/
+out/
